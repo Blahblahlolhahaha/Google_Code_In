@@ -12,3 +12,9 @@ This tool supports the following hash algorithms:
 6. SHA512
 
 Cracking of hashes is supported for words in the dictionary!
+
+### How to use:
+
+clone the repository using the following command:
+    
+    git clone 
